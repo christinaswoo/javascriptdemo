@@ -7,10 +7,10 @@
 
 var firstString = "Twins!";
 var secondString = "Loner!";
-var thirdString = "Twins!";
 
-if (firstString == thirdString) {
-  alert(firstString);
+
+if (firstString == secondString) {
+  alert("yas");
 } else {
-  alert(secondString);
+  alert("uh oh");
 }
